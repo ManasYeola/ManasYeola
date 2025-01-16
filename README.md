@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ManasYeola/ManasYeola/blob/main/Black%20White%20Green%20Modern%20Tech%20Software%20Engineer%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Manas Yeola</h1>
 <h3 align="center">A passionate software engineer from India</h3>
